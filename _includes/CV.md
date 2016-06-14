@@ -70,7 +70,7 @@ while(!working){
 
 
 
-Our team of seven multidisciplinary students took part in the « Entrepreneuriales » which organise a 8 months entrepreneurship challenge with mentoring and business lectures. We faced our automatic gear changing system [OPTI](http://www.elouantardivel.me/OPTI) to this challenge and learn from interactions and failures.
+Our team of seven multidisciplinary students took part in the « Entrepreneuriales » which organise a 8 months entrepreneurship challenge with mentoring and business lectures. We faced our automatic gear changing system [OPTI](/opti) to this challenge and learn from interactions and failures.
 I had the responsibility of managing the project and therefore leading an amazing team. I was also involved in the technical part of the project. I had to deal with fast prototyping (3D printing, Arduino programming) and system specifications.
 
 ## Parternship with the Cea Tech - Sep 2015/ Feb 2016
@@ -78,4 +78,4 @@ I had the responsibility of managing the project and therefore leading an amazin
 Expertise and consulting on the Design of our product OPTI.
 A real experience as a designer from questioning and reflexion to sketch and prototype.
 Trying to think out of the box, forget all our ideas on the product, start thinking small and grow step by step. Eventually ending up with a general intention for the system.
-See [OPTI](https://www.elouantardivel.me/OPTI)
+See [OPTI](/opti)
