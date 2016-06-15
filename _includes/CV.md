@@ -45,7 +45,6 @@ Working at Blueprint (an accelerator and co-working space) with Izkando team in 
 Took part of the Rise conference and many other related events.
 
 ##### Activity:
-Responsible for :
 * web application (test, debugging, improvement and design)  (Fullstack Dev)
 * search engine (engineer)
 * recommendation engine (engineer)
