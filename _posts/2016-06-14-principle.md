@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: inner
 title: 'Principle'
 date: 2016-06-14 17:20:19
+opti: active
 categories: Object
 tags: gear bike
 featured_video_id: 'https://player.vimeo.com/video/123722571'
