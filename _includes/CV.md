@@ -1,9 +1,38 @@
 # Education
 
+## Chalmers University of Technology - 2016
+--------------------------------------------------------------------
+
+Exchange student in Computer Science - algorithms, languages and logic - Sweden - 2016
+
+Lectures:
+
+* Algorithm for Machine learning and Inference
+* Deep learning
+* Concurrent programming
+* Artificial intelligence
+* Statistical learning for Big Data
+
+Projects:
+
+* distributed messaging system
+* shrdlite(NLP, Parsing, Graph search)
+* non linear dimension reduction methods
+* classification methods comparison
+
+Environment :
+
+* R
+* Matlab
+* Erlang
+* Java
+* Typescript
+
 ## École Nationale Supérieure des Mines de Nancy - Since 2013
 --------------------------------------------------------------------
 
 Master of Engineering Science- Nancy, France - Since 2013
+
 Three-year-engineering program, the equivalent of a Master degree.
 Computer science department.
 
@@ -15,6 +44,18 @@ A two-year program of intensive courses with major in Mathematics and Physics le
 
 
 # Experiences
+
+## Data Scientist Intern at Etsy / alittleMarket Paris, France - Since Nov 2016
+Field : Machine Learning / Information retrieval / Search Engine
+
+* Work in the data team in an agile environment (Kanban).
+* Interact with business and product teams to define goal & KPI.
+* Understand business constraints and transcribe them to technical solutions.
+* Explore state of the art techniques in Learning to Rank (LTR).
+* Extract and analyse data from different origins
+* Build a model to learn popularity and relevance from users logs
+* Deploy and A/B test in production a new ranking system for the search engine.
+* Impact GMS and user experience.
 
 ## Software Engineer Intern at EURA NOVA. Belgium - Sep 2015 / Jan 2016
 --------------------------------------------------------------------
