@@ -17,7 +17,7 @@ Otherwise I will receive GA data from your website.
 ### Run locally
 1. Navigate into the root directory.
 2. Run your Jekyll site locally:
-```
-$ bundle exec jekyll serve
-```
+    ```
+    $ bundle exec jekyll serve
+    ```
 3. Preview your local Jekyll site in your web browser at http://localhost:4000.
