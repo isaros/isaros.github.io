@@ -13,3 +13,11 @@ All content on this site is distributed under a [Creative Commons Attribution 3.
   * If you don't use Google Analytics, comment the block of code out entirely.
 
 Otherwise I will receive GA data from your website.
+
+### Run locally
+1. Navigate into the root directory.
+2. Run your Jekyll site locally:
+    ```shell
+    $ bundle exec jekyll serve
+    ```
+3. Preview your local Jekyll site in your web browser at http://localhost:4000.
