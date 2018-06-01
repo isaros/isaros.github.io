@@ -28,13 +28,29 @@ Environment :
 * Java
 * Typescript
 
-## École Nationale Supérieure des Mines de Nancy - Since 2013
+## École Nationale Supérieure des Mines de Nancy - Sep 2013 / March 2017
 --------------------------------------------------------------------
 
-Master of Engineering Science- Nancy, France - Since 2013
+Master of Engineering Science - Nancy, France
 
 Three-year-engineering program, the equivalent of a Master degree.
-Computer science department.
+I specialized in the Computer Science department in general Computer Science with a focus on Ambiant System and Robotics.
+I received a complete engineering education with strong basis in Physics and Mathematic.
+I also followed managerial lectures which allow me to understand complex organization and help me for communication and project management.
+
+Among the interesting lectures I got I can highlight :
+* Image processing
+* Data analysis
+* Probabilistic theory
+* Statistics
+* Logic
+* Innovation and entrepreneurship
+* Quantum Physics
+* Robotics
+* Operating system
+* Ambiant system
+* Database
+* Networks
 
 ## Lycée Michelet, Vanves Preparatory classes - 2011/2013
 --------------------------------------------------------------------
@@ -45,7 +61,7 @@ A two-year program of intensive courses with major in Mathematics and Physics le
 
 # Experiences
 
-## Data Scientist Intern at Etsy / alittleMarket Paris, France - Since Nov 2016
+## Data Scientist Intern at Etsy / alittleMarket Paris, France - Nov 2016 / Apr 2017
 Field : Machine Learning / Information retrieval / Search Engine
 
 * Work in the data team in an agile environment (Kanban).
