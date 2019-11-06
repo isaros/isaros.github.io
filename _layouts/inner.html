@@ -12,7 +12,7 @@ layout: default
                     {{ content }}
                     {% if page.image_path %}
                         {% for image in site.static_files %}
-                            {% if image.path contains 'img' %}
+                            {% if image.path contains page.image_path %}
                             <!-- <span class="img" style="background-image: url( 'http://127.0.0.1:4000{{ image.path }}');">
                             </span> -->
                                 <img class="img-post" src="{{ http://127.0.0.1:4000/ }}{{ image.path }}" alt="image" />
