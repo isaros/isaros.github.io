@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Face analysis experimentation in Google Colab'
+title: 'Face analysis experiment in Colab'
 date: 2019-10-05 07:28:50
 projects: active
 categories: Computer Vision
@@ -11,6 +11,7 @@ lead_text: 'When computer can tell us apart'
 
 
 *What is so special about your face?*
+
 For us human it's one of the main component to tell human apart.
 What if computer could do the same?
 
