@@ -5,7 +5,7 @@ date: 2019-09-10 09:20:19
 projects: active
 categories: Art
 tags: Art MachineLearning DeepLearning StyleTransfer
-featured_image: '/files/papa_mer_wave_1.jpg'
+featured_image: '/files/papa_mer_wave_1.png'
 featured_image_caption: 'Credit to The Great Wave off Kanagawa for the style, Brittany for its beauty and my Dad for his inspiration'
 image_path : 'img/opti'
 lead_text: 'Exploring an Open Source and DIY version of the product'
