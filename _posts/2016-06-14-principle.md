@@ -2,7 +2,7 @@
 layout: inner
 title: 'Principle'
 date: 2016-06-14 17:20:19
-opti: active
+projects: active
 categories: Object
 tags: auto gear bike bicycle
 featured_video_id: 'https://player.vimeo.com/video/123722571'
