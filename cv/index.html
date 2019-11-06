@@ -3,24 +3,19 @@ layout: default
 title: CV
 home: passive
 cv: active
+projects: passive
 contact: passive
 description: Current CV for Elouan Tardivel.
 ---
 <div class="cv">
 	<!-- FIXME -->
-	<a href="/files/CV_Elouan_Tardivel.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
+	<a href="/files/CV_Data_Science.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
 				<div itemscope itemtype="http://data-vocabulary.org/Person">
 				<span itemprop="name"><h1>Elouan Tardivel</h1></span>
 				</div>
-
 				<p>
-					I am a hacker and athlete looking for challenges and adventures.
-					My thirst for knowledge led me to attend Mines Nancy, an acknowledge french engineering school. I learn there a bunch of sciences, but also how to interact with students from different backgrounds (art, business, engineer) throughout many projects.
-					I choose the computer science department due to my strong interest in new technologies.
-					I believe that they will help us facing the topical issues of our century.
-					I have just finished an exchange  at Chalmers University to dig into Machine Learning and AI field.
-					<br>
-					Currently doing an internship at alittleMarket.fr
+				{% capture include-intro %}{% include intro.md %}{% endcapture %}
+				{{ include-intro | markdownify }}
 				</p>
 				{% capture include-CV %}{% include CV.md %}{% endcapture %}
 				{{ include-CV | markdownify }}

@@ -1,65 +1,20 @@
-# Education
-
-## Chalmers University of Technology - 2016
---------------------------------------------------------------------
-
-Exchange student in Computer Science - algorithms, languages and logic - Sweden - 2016
-
-Lectures:
-
-* Algorithm for Machine learning and Inference
-* Deep learning
-* Concurrent programming
-* Artificial intelligence
-* Statistical learning for Big Data
-
-Projects:
-
-* distributed messaging system
-* shrdlite(NLP, Parsing, Graph search)
-* non linear dimension reduction methods
-* classification methods comparison
-
-Environment :
-
-* R
-* Matlab
-* Erlang
-* Java
-* Typescript
-
-## École Nationale Supérieure des Mines de Nancy - Sep 2013 / March 2017
---------------------------------------------------------------------
-
-Master of Engineering Science - Nancy, France
-
-Three-year-engineering program, the equivalent of a Master degree.
-I specialized in the Computer Science department in general Computer Science with a focus on Ambiant System and Robotics.
-I received a complete engineering education with strong basis in Physics and Mathematic.
-I also followed managerial lectures which allow me to understand complex organization and help me for communication and project management.
-
-Among the interesting lectures I got I can highlight :
-* Image processing
-* Data analysis
-* Probabilistic theory
-* Statistics
-* Logic
-* Innovation and entrepreneurship
-* Quantum Physics
-* Robotics
-* Operating system
-* Ambiant system
-* Database
-* Networks
-
-## Lycée Michelet, Vanves Preparatory classes - 2011/2013
---------------------------------------------------------------------
-A two-year program of intensive courses with major in Mathematics and Physics leading to national competitive examination in order to integrate a highly ranked engineering school.
-
-
-
-
 # Experiences
+
+## Data Scientist at Mantu (Formerly Amaris) Vienna, Austria - Sep 2017 / Sep 2019
+Field : Machine Learning / Information retrieval / NLP
+* Take part in the creation of a multi-location research lab focused on AI
+* Realise various PoC including for: Recruitment; Marketing; M&A; HelpDesk
+* Applied Research in NLP & Computer Vision:
+    * Topic modeling, word embedding, clustering, similarity search
+    * Reproduce SoA in Face identification and emotion recognition
+    * Work on image captioning and VQA algorithms
+    * Tech/Scientific watch & pop-science for business actor
+
+### Innovation Evangelist at Amaris/Mantu
+* Work in pair with a business developer
+* Shape the strategy of the innovation cluster
+* Meet clients, assess project feasibility and produce proof of concept
+* Follow innovation and AI trends (watch + conferences)
 
 ## Data Scientist Intern at Etsy / alittleMarket Paris, France - Nov 2016 / Apr 2017
 Field : Machine Learning / Information retrieval / Search Engine
@@ -135,3 +90,62 @@ Expertise and consulting on the Design of our product OPTI.
 A real experience as a designer from questioning and reflexion to sketch and prototype.
 Trying to think out of the box, forget all our ideas on the product, start thinking small and grow step by step. Eventually ending up with a general intention for the system.
 See [OPTI](/opti)
+
+
+# Education
+
+## Chalmers University of Technology - 2016
+--------------------------------------------------------------------
+
+Exchange student in Computer Science - algorithms, languages and logic - Sweden - 2016
+
+Lectures:
+
+* Algorithm for Machine learning and Inference
+* Deep learning
+* Concurrent programming
+* Artificial intelligence
+* Statistical learning for Big Data
+
+Projects:
+
+* distributed messaging system
+* shrdlite(NLP, Parsing, Graph search)
+* non linear dimension reduction methods
+* classification methods comparison
+
+Environment :
+
+* R
+* Matlab
+* Erlang
+* Java
+* Typescript
+
+## École Nationale Supérieure des Mines de Nancy - Sep 2013 / March 2017
+--------------------------------------------------------------------
+
+Master of Engineering Science - Nancy, France
+
+Three-year-engineering program, the equivalent of a Master degree.
+I specialized in the Computer Science department in general Computer Science with a focus on Ambiant System and Robotics.
+I received a complete engineering education with strong basis in Physics and Mathematic.
+I also followed managerial lectures which allow me to understand complex organization and help me for communication and project management.
+
+Among the interesting lectures I got I can highlight :
+* Image processing
+* Data analysis
+* Probabilistic theory
+* Statistics
+* Logic
+* Innovation and entrepreneurship
+* Quantum Physics
+* Robotics
+* Operating system
+* Ambiant system
+* Database
+* Networks
+
+## Lycée Michelet, Vanves Preparatory classes - 2011/2013
+--------------------------------------------------------------------
+A two-year program of intensive courses with major in Mathematics and Physics leading to national competitive examination in order to integrate a highly ranked engineering school.
