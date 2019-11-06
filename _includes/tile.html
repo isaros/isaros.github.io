@@ -4,6 +4,7 @@
         {% if post.featured_image %}
         <span class="img" style="background-image: url('{{ post.featured_image }}');"></span>
         <img src="{{ post.featured_image }}">
+        <figcaption>{{ post.featured_image_caption }}</figcaption>
         {% endif %}
 
         {% if post.featured_video_id %}

@@ -1,0 +1,14 @@
+---
+layout: default
+title: Projects
+cv: passive
+project: active
+contact: passive
+description: A few of my side projects
+---
+<div class="projects">
+    {% include title-group.html %}
+    {% for post in site.posts %}
+        {% include tile.html %}
+    {% endfor %}
+</div>
