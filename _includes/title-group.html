@@ -1,9 +1,13 @@
 {% if page.featured_image or page.featured_video_id %}
-    <div class="topper">
+    <div class="">
         {% if page.featured_image %}
-        <span class="img" style="background-image: url('{{ page.featured_image }}');">
-        <figcaption>{{ post.featured_image_caption }}</figcaption>
+        <figure class="figure">
+            <img class= "figure-img img-captioned" src="{{ page.featured_image }}" alt="{{ page.featured_image_caption }}">
+            <figcaption class="figure-caption">
+                <small><i>{{ page.featured_image_caption }}</i></small>
+            </figcaption>
 
+        </figure>
         {% endif %}
 
         {% if page.featured_video_id %}
