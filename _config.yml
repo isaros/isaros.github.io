@@ -1,4 +1,4 @@
-permalink: /opti/:year/:month/:day/:title
+permalink: /projects/:year/:month/:day/:title
 markdown: kramdown
 
 url: https://elouantardivel.com
